@@ -1,0 +1,6 @@
+{
+  "name": "Christ's Love Bible Reader",
+  "description": "A beautifully designed, responsive 90-day New Testament reading tracker with daily bible verse, custom progress analytics, and local alarms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
